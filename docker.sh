@@ -2,7 +2,7 @@ NPATH=/usr/bin/python
 WORKSPACE=/var/lib/jenkins
 export PYTHONPATH=$WORKSPACE:$PYTHONPATH
 echo "deep"
-
+echo "Hey this is my docker container"
 
 #Run the container
 
